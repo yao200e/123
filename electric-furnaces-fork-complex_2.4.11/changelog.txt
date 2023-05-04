@@ -1,0 +1,59 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.4.11
+Date: 08. 12. 2020
+  Changes:
+    - Added new graphics and upgrade planner support for electric boiler
+---------------------------------------------------------------------------------------------------
+Version: 2.4.10
+Date: 26. 11. 2020
+  Changes:
+    - Updated to Factorio 1.1
+---------------------------------------------------------------------------------------------------
+Version: 2.4.9
+Date: 04. 09. 2020
+  Changes:
+    - Added high-res icons for all furnaces, improved electric furnace 2 and 3 sprites
+---------------------------------------------------------------------------------------------------
+Version: 2.4.8
+Date: 08. 05. 2020
+  Bugfixes:
+    - Fixed that electric stone and electric steel furnaces produced no pollution
+---------------------------------------------------------------------------------------------------
+Version: 2.4.7
+Date: 23. 01. 2020
+  Bugfixes:
+    - Fixed load warning due to new sprite mipmaps
+---------------------------------------------------------------------------------------------------
+Version: 2.4.6
+Date: 23. 01. 2020
+  Changes:
+    - Updated to 0.18
+---------------------------------------------------------------------------------------------------
+Version: 2.4.5
+Date: 11. 09. 2019
+  Changes:
+    - Added options to enable/disable different parts of this mod
+  Bugfixes:
+    - Marked this mod as incompatible with Industrial Revolution so it won't crash on load
+---------------------------------------------------------------------------------------------------
+Version: 2.4.4
+Date: 16. 03. 2019
+  Changes:
+    - Rebalanced pollution values to match changes to base game
+---------------------------------------------------------------------------------------------------
+Version: 2.4.3
+Date: 08. 03. 2019
+  Changes:
+    - Added missing science pack prerequisites to high-level electric furnace technologies
+---------------------------------------------------------------------------------------------------
+Version: 2.4.2
+Date: 04. 03. 2019
+  Changes:
+    - Reduced stone electric furnace pollution for better balance
+  Bugfixes:
+    - Fixed logic error in definition of electric furnace 2 and 3 working lights
+---------------------------------------------------------------------------------------------------
+Version: 2.4.1
+Date: 02. 03. 2019
+  Bugfixes:
+    - Shifted modification of base electric furnace to data-updates.lua to improve compatibility with other mods

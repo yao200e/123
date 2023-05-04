@@ -1,0 +1,9 @@
+{
+	"name": "electric-furnaces-fork-complex",
+	"version": "2.4.11",
+	"title": "Electric Furnaces Forked",
+	"author": "GotLag",
+	"homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=13528",
+	"description": "Adds electric versions of the stone and steel furnaces, two upgrades of the electric furnace, and an electric boiler.",
+	"factorio_version": "1.1"
+}
