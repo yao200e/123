@@ -4,7 +4,7 @@ kettle = util.table.deepcopy(data.raw["boiler"]["boiler"])
 kettle.name = "electric-boiler"
 kettle.icon = "__electric-furnaces-fork-complex__/graphics/icons/electric-boiler.png"
 kettle.minable.result = "electric-boiler"
-kettle.energy_consumption = "900kW"
+kettle.energy_consumption = "300kW"
 kettle.energy_source =
 {
   type = "electric",
